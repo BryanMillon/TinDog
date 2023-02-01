@@ -2,6 +2,9 @@
 
 Welcome to TinDog! This is a static website that I created using HTML, CSS, and Bootstrap. TinDog is a "Tinder for dogs" app, designed to help dogs find their perfect match.
 
+## Deploy
+https://tindogpreview.netlify.app
+
 ## Technologies Used
 - HTML
 - CSS
